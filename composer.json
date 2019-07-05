@@ -1,0 +1,13 @@
+{
+    "name": "xydk936/eio-ext-ide-helper",
+    "description": "php eio ide tips",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xydk936",
+            "email": "993651481@qq.com"
+        }
+    ],
+    "require": {}
+}
