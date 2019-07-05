@@ -3,11 +3,22 @@
     "description": "php eio ide tips",
     "type": "library",
     "license": "MIT",
+    "keywords": [
+      "eio",
+      "ide tips"
+    ],
     "authors": [
         {
             "name": "xydk936",
             "email": "993651481@qq.com"
         }
     ],
-    "require": {}
+    "autoload": {
+        "files": [
+            "src/eio.php"
+        ]
+    },
+    "require": {
+      "ext-eio": "*"
+    }
 }
